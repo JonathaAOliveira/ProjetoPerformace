@@ -17,3 +17,14 @@ if ($media >= 7.0) {
 } else {
     echo("Reprovado!");
 }
+
+#Executado em 0,078 seg
+
+/*
+OS: Debian GNU/Linux 12 (bookworm) x86_64 
+CPU: Intel i5-6200U (4) @ 2.800GHz
+Memory: 4049MiB / 11867MiB
+PHP 8.2.20 (cli) (built: Jun 17 2024 13:33:14) (NTS)
+*/
+
+?>
